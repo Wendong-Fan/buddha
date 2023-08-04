@@ -6,7 +6,6 @@ from langchain.chat_models import AzureChatOpenAI
 from langchain.tools import DuckDuckGoSearchRun
 from PIL import Image
 
-key1 = "326dc172a0844accbb26d2600a471fba"
 
 st.title("🧐 小佛陀")
 #image0 = Image.open('images.jpeg')
